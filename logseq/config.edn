@@ -347,6 +347,7 @@
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
  :default-home {:page "Home"}
+ :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
