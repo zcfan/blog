@@ -16,5 +16,10 @@ tags:: 文章, TIL
 		- 参考 ((64336706-c37c-4e57-8dc5-48985bba5c9d)) 中的视频教程完成配置
 	- workflow 提示没有权限
 		- 去仓库 Settings 中配置 workflow 权限
-			- ![image.png](../assets/image_1681090726708_0.png)
+			- ![image.png](../assets/image_1681090726708_0.png){:height 593, :width 563}
+	- 如何发布
+		- add & commit & push Logseq 图谱仓库即可
+	- 如何简化发布
+		- Logseq 设置中有自动 commit 的功能，但并不好用
+		- 建议便携
 	-
