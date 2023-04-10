@@ -2,4 +2,4 @@
 	- https://www.raycast.com/
 - 是什么东西？
 	- Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
-	-
+	- 类似 [Alfred](https://www.alfredapp.com/) 的一款效率工具，目前免费，我正在用
