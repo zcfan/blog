@@ -1,2 +1,3 @@
-- [[TIL]]/ [[Today I Learn]]
+-
 - [[关于我]]
+- [[TIL]]/ [[Today I Learn]]
