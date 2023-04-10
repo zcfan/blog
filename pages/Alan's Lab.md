@@ -1,5 +1,2 @@
-- [[TIL]]/
+- [[TIL]]/ [[Today I Learn]]
 - [[关于我]]
-- 能正常发布图片么
-	- ![image.png](../assets/image_1680871282928_0.png)
-- [[TIL]]
