@@ -5,8 +5,9 @@ tags:: 文章, TIL
 - 材料
 	- [Github Page](https://docs.github.com/en/pages/quickstart)
 		- 用于免费提供静态网站
-	- Logseq
+	- [Logseq](https://logseq.com/)
 		- 平时用于个人知识管理，这里用于写作
-	- Logseq/publish
-		- https://github.com/pengx17/logseq-publish
+	- [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
+		- 用于自动将 Logseq 博客图谱发布到 Github Page
+	-
 	-
