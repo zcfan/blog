@@ -18,8 +18,10 @@ tags:: 文章, TIL
 		- 去仓库 Settings 中配置 workflow 权限
 			- ![image.png](../assets/image_1681090726708_0.png){:height 593, :width 563}
 	- 如何发布
-		- add & commit & push Logseq 图谱仓库即可
+		- add & commit & push Logseq 图谱仓库
+		  id:: 643368bc-4d9b-4574-8c5a-3ab60a031cf5
 	- 如何简化发布
 		- Logseq 设置中有自动 commit 的功能，但并不好用
-		- 建议便携
+		- 建议编写脚本自动化 ((643368bc-4d9b-4574-8c5a-3ab60a031cf5))
+		- （可选）辅以 Raycast 这类工具的自定义脚本功能会更方便
 	-
