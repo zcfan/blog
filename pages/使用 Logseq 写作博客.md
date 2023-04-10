@@ -21,6 +21,9 @@ created:: [[Apr 10th, 2023]]
 	- 如何发布
 		- add & commit & push Logseq 图谱仓库
 		  id:: 643368bc-4d9b-4574-8c5a-3ab60a031cf5
+		- ```
+		  git add . && git commit -m "auto publish" && git push
+		  ```
 	- 如何简化发布
 		- Logseq 设置中有自动 commit 的功能，但并不好用
 		- 建议编写脚本自动化 ((643368bc-4d9b-4574-8c5a-3ab60a031cf5))
