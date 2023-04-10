@@ -26,7 +26,7 @@
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
- :ui/enable-tooltip? true
+ :ui/enable-tooltip? false
 
  ;; Show brackets around page references
  ;; :ui/show-brackets? true
@@ -35,7 +35,7 @@
  :ui/show-full-blocks? false
 
  ;; Expand block references automatically when zoom-in
- :ui/auto-expand-block-refs? true
+ :ui/auto-expand-block-refs? false
 
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
@@ -343,6 +343,11 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-timetracking? false
+ :feature/enable-journals? true
+ :feature/enable-whiteboards? false
+ :feature/enable-flashcards? false
+ :default-home {:page "Alan's Lab"}
+ :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

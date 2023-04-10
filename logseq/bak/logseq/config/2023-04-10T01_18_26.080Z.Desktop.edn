@@ -346,7 +346,7 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
- :default-home {:page "Alan's Lab"}
+ :default-home {:page "Home"}
  :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
