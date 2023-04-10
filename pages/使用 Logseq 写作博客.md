@@ -15,5 +15,6 @@ tags:: 文章, TIL
 	- 配置教程
 		- 参考 ((64336706-c37c-4e57-8dc5-48985bba5c9d)) 中的视频教程完成配置
 	- workflow 提示没有权限
-		- 去 Github
+		- 去仓库 Settings 中配置 workflow 权限
+			- ![image.png](../assets/image_1681090726708_0.png)
 	-
