@@ -1,4 +1,5 @@
 tags:: 文章, TIL
+date:: [[Apr 10th, 2023]]
 
 - 目的
 	- 零成本（或极少成本）建设一个类似[本站（https://www.alanslab.today）](https://www.alanslab.today)的博客
