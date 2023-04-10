@@ -1,0 +1,5 @@
+- 官网
+	- https://www.raycast.com/
+- 是什么东西？
+	- Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
+	-
