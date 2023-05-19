@@ -61,6 +61,12 @@
 	- 把这个文件保存到 `/usr/local/bin/auto-adb-reverse`
 		- ((64677226-e8b5-41cb-85b0-c3bcd30615fe))
 		- 增加可执行权限`chmod +x /usr/local/bin/auto-adb-reverse`
+	- 配置 adb 的环境变量
+		- agent 配置中我们指定了 `PATH` 环境变量为 `/bin:/usr/bin:/usr/local/bin`，所以你可能需要链接一下
+		- ```
+		  ln -s $(which adb) /usr/local/bin/adb
+		  ```
+		- 或者直接在 agent 配置中指定你的 adb 路径，我指定这个 `PATH` 只是为了通用。
 	- 手动 load 这个 agent
 		- ```
 		  launchctl load ~/Library/LaunchAgents/com.tencent.cfanzhang.auto-adb-reverse.plist
