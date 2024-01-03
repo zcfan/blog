@@ -9,9 +9,13 @@ created:: [[Apr 10th, 2023]]
 		- （可选）另外购买域名，跟随 Page 文档指导配置自定义域名
 	- [Logseq](https://logseq.com/)
 		- 平时用于个人知识管理，这里用于写作
-	- [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
+	- ~~[pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)~~
 	  id:: 64336706-c37c-4e57-8dc5-48985bba5c9d
-		- 用于自动将 Logseq 博客图谱发布到 Github Page
+		- 废弃，看下面的 ((6594f89d-18df-4be5-880b-5a1cc6a0414d))
+		- ~~用于自动将 Logseq 博客图谱发布到 Github Page~~
+	- [logseq/publish-spa](https://github.com/logseq/publish-spa)
+	  id:: 6594f89d-18df-4be5-880b-5a1cc6a0414d
+		- logseq 官方 action，发布 graph 到 Github Page
 - 建议
 	- 配置教程
 		- 参考 ((64336706-c37c-4e57-8dc5-48985bba5c9d)) 中的视频教程完成配置
