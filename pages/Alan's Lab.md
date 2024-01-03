@@ -1,4 +1,7 @@
 - 坐标深圳的软件工程师
 - [[Today I Learn]]
-	- [[使用 Logseq 写作博客]]
-	- [[]]
+- 文章
+	- [定制 javascript runtime](https://github.com/zcfan/create-your-own-javascript-runtime)
+		- [Part 1：前置知识](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part1_prerequests/note.md)
+		- [Part 2：构建依赖](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part2_build-dependencies/note.md)
+-
