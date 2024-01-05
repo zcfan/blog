@@ -1,0 +1,18 @@
+- [raycast](https://www.raycast.com/) 是一个 mac 上的效率工具，类似 alfred，但后者我没用过不做对比评价。
+- raycast 使用起来好用的地方有
+	- 低成本，轻松自己定制功能， ((65977953-9041-41e9-800f-ca8453959019)) 更是只需要写一个脚本，而且还可以在 raycast 中一键生成模版
+		- 两种扩展方式
+			- [script command](https://github.com/raycast/script-commands) 简单快捷
+			  id:: 65977953-9041-41e9-800f-ca8453959019
+				- 比如我的 [raycast-scripts](https://github.com/zcfan/raycast-scripts)
+			- [extension](https://www.raycast.com/developer-program) 功能强大，和 raycast 整合更紧密，能使用更多操作系统的能力。比如在 mac 右上角增加一个 icon。
+				- 比如我的[scrcpy](https://www.raycast.com/zcfan/scrcpy)
+	- 自带窗口管理、剪贴板管理（不好用嘿嘿）、snippets 管理等功能
+	- 插件、脚本生态开源，非常活跃
+- 对我来说最重要的是它非常方便的扩展能力。我用两种方式组织自己扩展的功能：
+	- script command
+		- 所有 script 都在 [zcfan/raycast-scripts](https://github.com/zcfan/raycast-scripts) repo 中保存
+		- （计划中）后面可能会把私有 script 和可以公开的分开两个仓库，私有的设置 private
+	- extension
+		- 每个扩展单独创建一个仓库，以 `raycast-` 开头，就像这个： [zcfan/raycast-filter-out-clipboard](https://github.com/zcfan/raycast-filter-out-clipboard)
+		- 创建成 extension 的功能都是我认为有价值做成通用插件分享出去的（但有没有时间去折腾就是另一码事了😂），所以有些功能可能用 script commad 就能解决，但我做成了 extension，就是因为感觉有泛化价值。

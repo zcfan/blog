@@ -16,10 +16,13 @@ created:: [[Apr 10th, 2023]]
 	- [logseq/publish-spa](https://github.com/logseq/publish-spa)
 	  id:: 6594f89d-18df-4be5-880b-5a1cc6a0414d
 		- logseq 官方 action，发布 graph 到 Github Page
+		- 注意：github action 执行可能会遇到 api 调用限频的问题，可以减少一下发布频率，不要短时间多次编译发布。
 - 建议
 	- 配置教程
+	  collapsed:: true
 		- 参考 ((64336706-c37c-4e57-8dc5-48985bba5c9d)) 中的视频教程完成配置
 	- workflow 提示没有权限
+	  collapsed:: true
 		- 去仓库 Settings 中配置 workflow 权限
 			- ![image.png](../assets/image_1681090726708_0.png){:height 593, :width 563}
 	- 如何发布
@@ -32,7 +35,7 @@ created:: [[Apr 10th, 2023]]
 	- 如何简化发布
 		- Logseq 设置中有自动 commit 的功能，但并不好用
 		- 建议编写脚本自动化 ((643368bc-4d9b-4574-8c5a-3ab60a031cf5))
-		- （可选）辅以 [[Raycast]] 这类工具的自定义脚本功能，写完了一键发布会更方便
+		- （可选）辅以 [[Raycast]] 这类工具的自定义脚本功能，写一个一键发布 script command 会很省事
 	- 大陆访问？
 		- 随缘吧，没能力翻墙的应该也没必要看这些东西
 		- 大陆其他 Github 竞品有类似 Page、Action 服务的话，应该也可以套用这套流程
