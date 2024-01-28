@@ -5,6 +5,7 @@
 		- [Part 2：构建依赖](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part2_build-dependencies/note.md)
 		- [Part 3：shadertoy 1](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part3_minigame1/note.md)
 		- 待续...
+	- [[（WIP）shader 入门]]
 - [[Today I Learn]]
 	- {{embed ((65977ce9-6cb7-46e2-9c48-ad477687a95a))}}
 	- {{embed ((65977cf5-09f1-4198-b4e5-d01acc0ea378))}}
