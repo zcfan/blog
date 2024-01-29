@@ -4,7 +4,7 @@
 	- [（WIP）定制 javascript runtime](https://github.com/zcfan/create-your-own-javascript-runtime)
 		- [Part 1：前置知识](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part1_prerequests/note.md)
 		- [Part 2：构建依赖](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part2_build-dependencies/note.md)
-		- [Part 3：shadertoy 1](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part3_minigame1/note.md)
+		- [Part 3：shadertoy 1](https://github.com/zcfan/create-your-own-javascript-runtime/blob/main/part3_shadertoy1/note.md)
 		- 待续...
 	- [[（WIP）shader 入门]]
 - [[Today I Learn]]
