@@ -6,6 +6,8 @@ alias:: Today I Learn
 	- [[Jan 5th, 2024]]
 	  id:: 6597780c-18fd-4a30-8482-0fc45121e0a5
 		- [[Raycast 使用经验]]
+	- [[Feb 2nd, 2024]]
+		- [[steamdeck 安装 windows 11]]
 - [[2023]]
   id:: 65977cf5-09f1-4198-b4e5-d01acc0ea378
 	- [[May 24th, 2023]]
