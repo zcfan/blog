@@ -8,6 +8,9 @@ alias:: Today I Learn
 		- [[Raycast 使用经验]]
 	- [[Feb 2nd, 2024]]
 		- [[steamdeck 安装 windows 11]]
+	- [[Feb 24th, 2024]]
+		- [自己给 steamdeck 换肩键微动](https://segmentfault.com/a/1190000044655710)
+			- 图太多，链接到 sf 博客算了
 - [[2023]]
   id:: 65977cf5-09f1-4198-b4e5-d01acc0ea378
 	- [[May 24th, 2023]]
