@@ -1,3 +1,4 @@
+# 安装 windows
 - 来源
 	- https://www.xda-developers.com/how-install-windows-steam-deck/
 	- 基本是无废话版翻译这篇文章
@@ -35,4 +36,6 @@
 		- 右键单击 `cs35l41.inf`，选择 `安装`
 	- Audio two
 		- 右键单击 `NAU88L21.inf`，选择 `安装`
-- 结束~
+- 安装结束
+- # 必要软件
+- https://glossi.flatspot.pictures/#downloads
