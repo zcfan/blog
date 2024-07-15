@@ -1,3 +1,4 @@
+- [View on Chrome extension store](https://chromewebstore.google.com/detail/bookmark-tabs/opfmdehnfkpjmpinppekmcldmdgejael)
 - This extension is inspired by Arc browser. I love the way how it integrates bookmarks and tabs together, but dislike almost all the other ideas. Especially those AI craps.
 - So here comes the very early first version of "Bookmark tabs" extension.
 - It's not just a vertical bookmark, when you click a bookmark, it associated with the opened tab, so you can switch the tab by click the bookmark again.
